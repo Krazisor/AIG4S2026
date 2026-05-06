@@ -2,7 +2,6 @@ body {
   margin: 0;
   font-family: "Arial", sans-serif;
   background: #ffffff;
-  text-align: justify;
 }
 
 .content .container {
@@ -114,6 +113,7 @@ body {
 .main-content p {
   line-height: 1.8;
   margin-bottom: 20px;
+  text-align: justify;
 }
 
 .main-content ul {
