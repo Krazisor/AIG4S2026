@@ -1,0 +1,24 @@
+Draft of Workshop CFP
+
+1st workshop on AI- and Graph-Driven Adaptive Services (AIGraph4Services 2026)
+
+The first workshop on AI- and Graph-Driven Adaptive Services (AIGraph4Services 2026) aims to explore how the synergistic integration of AI and graph techniques can empower next-generation adaptive Web services capable of operating in modern computing environments, spanning various devices, that are characterized by increasing dynamism, heterogeneity, and uncertainty. Specifically, the workshop seeks to enable dynamic reconfiguration and self-optimization, and establish continuous learning in service-oriented systems.
+This workshop advances the vision of autonomous, continuously learning Web services that dynamically reconfigure themselves in response to fluctuating workloads, evolving data distributions, and heterogeneous devices environments. By leveraging graph techniques to model service dependencies and invocation topologies, and AI-driven approaches to online optimization and drift adaptation, the workshop directly addresses fundamental service computing challenges such as adaptive composition, context-aware discovery, real-time QoS alignment, and service recommendation from operational data, paving the way for next-generation service systems that are truly self-adaptive.
+AIGraph4Services 2026 extends the core disciplines of service computing, including service adaptation, composition, QoS management, recommendation, monitoring, and cross-domain operation, by integrating AI and graph techniques into the service lifecycle. 
+
+Scope and Topics of Interest
+Adaptive service lifecycle management: workflow scheduling, service composition, orchestration, runtime reconfiguration.
+Graph-based service intelligence: service dependency graphs, service knowledge graphs, GNN-based service modeling, graph structure learning.
+QoS-aware adaptation and optimization: QoS prediction, SLA enforcement, resource allocation, task offloading, cloud-edge provisioning.
+Self-healing and operational intelligence: anomaly detection, drift adaptation, root-cause analysis, resilience, and recovery.
+
+Submission Guidelines
+AIGraph4Services 2026 welcomes regular papers, short papers, and work-in-progress papers. Regular papers should present mature research contributions, short papers may report focused technical results or preliminary findings, and work-in-progress papers may present early-stage but innovative ideas relevant to AI- and Graph-Driven adaptive Web services. 
+Authors are invited to submit original, unpublished papers to AIGraph4Services 2026. Submissions should be prepared in PDF format and submitted through the IEEE SERVICES 2026 EasyChair site by selecting the AIGraph4Services 2026 workshop track. All submissions should follow the IEEE conference format and comply with the SERVICES 2026 author instructions. 
+Each paper will be reviewed by at least three qualified members of the international program committee to ensure high quality.  Submissions involving workshop chairs or PC members will be handled by non-conflicted reviewers and that final decisions will be made by non-conflicted chairs or senior PC members. Paper acceptance will be based on originality, significance, technical soundness, relevance to the workshop themes, and clarity of presentation.
+Accepted and presented papers are expected to be included in the official workshop proceedings of IEEE SERVICES 2026, subject to the congress publication policy. At least one author of each accepted paper must complete registration and present the paper at the workshop. Registration is subject to the terms, conditions, and procedures of the main IEEE SERVICES 2026 conference, as provided on the conference website. 
+  
+Important Dates
+Paper Submission: 24 May 2026 
+Acceptance Notification: 7 June 2026 
+Camera-ready and Registration: 14 June 2026 
