@@ -118,10 +118,12 @@ body {
 
 .main-content ul {
   padding-left: 40px;
+  text-align: justify;
 }
 
 .main-content ul li {
   margin-bottom: 8px;
+  text-align: justify;
 }
 
 /* sidebar */
